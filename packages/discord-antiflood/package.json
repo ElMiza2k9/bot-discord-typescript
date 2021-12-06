@@ -1,0 +1,29 @@
+{
+	"name": "discord-antiflood",
+	"version": "2.1.1",
+	"description": "Discord AntiFlood es el mejor modulo para evitar el flood y spam de mensajes. Con eventos y infacciones personalizadas.",
+	"main": "index.js",
+	"directories": {
+		"src": "src",
+		"test": "test"
+	},
+	"dependencies": {
+		"discord.js": "^13.4.0-dev.1636157105.49e3ce2"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"typings": "typings.d.ts",
+	"keywords": [
+		"discord",
+		"flood",
+		"antiflood",
+		"spam",
+		"antispam",
+		"tnfAngel",
+		"bot",
+		"discord.js"
+	],
+	"author": "tnfAngel",
+	"license": "ISC"
+}

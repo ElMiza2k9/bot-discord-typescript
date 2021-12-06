@@ -1,0 +1,43 @@
+{
+	"name": "memz",
+	"version": "4.0.0-beta",
+	"description": "The best Discord Bot XD",
+	"main": "index.js",
+	"scripts": {
+		"start": "npx ts-node-dev --respawn --transpile-only --poll ./index.ts"
+	},
+	"author": "drgatoxd™#7850",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/lodash": "^4.14.176",
+		"ts-node": "^10.4.0",
+		"typescript": "^4.4.4"
+	},
+	"dependencies": {
+		"@kuroxi/discord-canvas": "^1.0.1",
+		"@types/figlet": "^1.5.4",
+		"@types/uuid": "^8.3.3",
+		"canvas": "^2.8.0",
+		"chalk": "^3.0.0-beta.2",
+		"closest-match": "^1.3.3",
+		"discord-logs": "^2.0.1",
+		"discord.js": "^13.4.0-dev.1636157105.49e3ce2",
+		"dotenv": "^10.0.0",
+		"figlet": "^1.5.2",
+		"ghom-djs-docs": "^1.0.13",
+		"is-url": "^1.2.4",
+		"lodash": "^4.17.21",
+		"mathjs": "^10.0.0",
+		"minecraft-information": "^0.5.0",
+		"moment": "^2.29.1",
+		"mongoose": "^6.0.12",
+		"node-fetch": "^2.6.1",
+		"node-superfetch": "^0.2.3",
+		"petitio": "^1.4.0",
+		"pretty-ms": "^7.0.1",
+		"request-promise-native": "^1.0.9"
+	},
+	"engines": {
+		"node": "16.x"
+	}
+}

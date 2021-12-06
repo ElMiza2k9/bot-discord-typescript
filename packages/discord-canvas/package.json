@@ -1,0 +1,17 @@
+{
+	"name": "@kuroxi/discord-canvas",
+	"version": "1.0.1",
+	"description": "Image manipulation for discord bot or other app",
+	"main": "index.js",
+	"keywords": [
+		"image",
+		"canvas",
+		"manipulation",
+		"discord"
+	],
+	"author": "Victor Gonzales <apexjacob04@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"canvas": "^2.8.0"
+	}
+}
